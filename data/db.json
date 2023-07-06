@@ -90,21 +90,21 @@
       {
         "id": "1",
         "name": " Highlands Primary School",
-        "img": "https://i.postimg.cc/qMrvmNVy/Zulaigh-s.jpg",
+        
         "periods":"2010-2017",
         "description":"Primary Education"
       },
       {
         "id": "2",
         "name": " Oaklands High School",
-        "img": "https://i.postimg.cc/qMrvmNVy/Zulaigh-s.jpg",
+        
         "periods":"2018-2022",
         "description":"Secondary Education"
       },
       {
         "id": "3",
         "name": "Life Choices Coding academy ",
-        "img": "https://i.postimg.cc/qMrvmNVy/Zulaigh-s.jpg",
+        
         "periods":"current",
         "description":"Tertiary  Education"
       }
@@ -114,24 +114,29 @@
     "Skills" : [
       {
         "id": "1",
-        "img": "https://i.postimg.cc/sxhTQxnf/vue1.png"
+        "img": "https://i.postimg.cc/sxhTQxnf/vue1.png",
+        "rate":"45%"
         
       },
       {
         "id": "2",
-        "img": "https://i.postimg.cc/tCzhrFVQ/html5-icon-1.png"
+        "img": "https://i.postimg.cc/tCzhrFVQ/html5-icon-1.png",
+        "rate":"95%"
       },
       {
         "id": "3",
-        "img": "https://i.postimg.cc/bwssQnxR/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon.png"
+        "img": "https://i.postimg.cc/bwssQnxR/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon.png",
+        "rate":"80%"
       }, 
       {
         "id": "4",
-        "img": "https://i.postimg.cc/kGYtmvNB/boo.png"
+        "img": "https://i.postimg.cc/kGYtmvNB/boo.png",
+        "rate":"60%"
       }, 
       {
         "id": "5",
-        "img": "https://i.postimg.cc/C58d3pK6/147-1474351-javascript-icon.jpg"
+        "img": "https://i.postimg.cc/C58d3pK6/147-1474351-javascript-icon.jpg",
+        "rate":"70%"
       } 
     ]
 
