@@ -4,48 +4,67 @@
         "id": "1",
         "name": " E-commerece  ",
         "img": "https://i.postimg.cc/mrxk0p7t/Screenshot-2023-07-05-085833.png",
-        "description": "Glamour City sells makeup products."
+        "description": "Glamour City sells makeup products.",
+        "github-link":"https://github.com/Li2a26/E-commerce-project.git",
+        "netlify link":"https://makeup88.netlify.app"
       },
       {
         "id": "2",
         "name": " To-do-list",
         "img": "https://i.postimg.cc/90jZBFQF/Screenshot-2023-07-05-090834.png",
-        "description": "Sorts and adds errands"
+        "description": "Sorts and adds errands",
+       "github-link":"https://github.com/Li2a26/To-Do-List.git",
+        "netlify link":"https://to-do-list262005.netlify.app"
+
+       
+
       },
       {
         "id": "3",
         "name": "Arrays ",
         "img": "https://i.postimg.cc/158M54Vb/Screenshot-2023-07-05-091356.png",
-        "description": "Adds and subtracts arrays"
+        "description": "Adds and subtracts arrays",
+        "github-link":"https://github.com/Li2a26/ExerciseB.git",
+        "netlify link":"https://class2005.netlify.app"
       },
   
       {
         "id": "4",
         "name": " BMI calculator ",
         "img": "https://i.postimg.cc/T1cPznnF/Screenshot-2023-07-05-092442.png",
-        "description": "Caculates Body Mass Index "
+        "description": "Caculates Body Mass Index ",
+        "github-link":"https://github.com/Li2a26/BMI.git",
+        "netlify link":"https://bmi2-calculator.netlify.app"
       },
       {
         "id": "5",
         "name": "Calculator ",
         "img": "https://i.postimg.cc/cJQ67qrd/Screenshot-2023-07-05-092643.png",
-        "description": "Clears , sorts and numbers."
+        "description": "Clears , sorts and numbers.",
+        "github-link":"https://github.com/Li2a26/Calculator.git",
+        "netlify link":"https://lisascalculator.netlify.app"
       },
   
       {
         "id": "6",
         "name": "Digital Porfilo",
         "img": "https://i.postimg.cc/QNn5d37z/Screenshot-2023-07-05-092958.png",
-        "description": "Digitial Porfilo of myself"
+        "description": "Digitial Porfilo of myself",
+        "github-link":"https://github.com/Li2a26/Bootstrap-portfolio.git",
+        "netlify link":"https://lisa-digital.netlify.app"
       },
   
       {
         "id": "7",
         "name": " E-commerce Website  ",
         "img": "https://i.postimg.cc/pdHC2Hjj/Screenshot-2023-07-05-093546.png",
-        "description": "It promotes the brand"
+        "description": "It promotes the brand",
+        "github-link":"https://github.com/Li2a26/Group-Exercise.git",
+        "netlify link":"https//amg-project.netlify.app/"
       }
     ],
+
+
 
     "testimonials": [
       {
