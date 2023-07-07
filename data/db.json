@@ -52,16 +52,9 @@
         "description": "Digitial Porfilo of myself",
         "github":"https://github.com/Li2a26/Bootstrap-portfolio.git",
         "netlify":"https://lisa-digital.netlify.app"
-      },
-  
-      {
-        "id": "7",
-        "name": " E-commerce Website  ",
-        "img": "https://i.postimg.cc/pdHC2Hjj/Screenshot-2023-07-05-093546.png",
-        "description": "It promotes the brand",
-        "github":"https://github.com/Li2a26/Group-Exercise.git",
-        "netlify":"https//amg-project.netlify.app/"
       }
+  
+      
     ],
 
 
